@@ -12,3 +12,5 @@ https://gakindle.github.io/run-buddy/
 
 ## Contribution
 Made with ❤️ by Garrett
+
+### ©️2019 Run Buddy, Inc 
